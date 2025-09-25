@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="src/IMG_Profile.jpg" width="180" style="border-radius:10px" alt="Priya Banner"/>
+  <img src="WhatsApp Image 2025-09-24 at 9.59.29 PM.jpeg" width="180" style="border-radius:10px" alt="Priya Banner"/>
 </p>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Priya Ponna</h1>
 
 <p align="center">
-  <b>Business Intelligence Analyst | Data Modeler | BI & Cloud Enthusiast 📊☁️</b>
+  <b>Business Intelligence Analyst | Business Analyst | Data Storyteller 📊✨</b>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 🌟 Business Intelligence Analyst with strong expertise in **Power BI, Tableau, SQL, Python, and Snowflake**.  
 📊 Passionate about designing enterprise dashboards, data models, and ETL workflows for **healthcare and HR domains**.  
-⚡ Skilled in **data governance, quality frameworks, and Agile** methodologies.  
-🌍 Based in Dallas, TX and open to creating impactful BI solutions that drive decision-making.  
+⚡ Skilled in **Data Governance, quality frameworks, and Agile** methodologies.  
+🌍 Based in Chicago, IL and open to creating impactful BI solutions that drive decision-making.  
 
 ---
 
@@ -56,38 +56,19 @@
 📊 **Clinical & Operational BI Dashboards (PwC & PatientPoint)**  
 → Designed enterprise-level BI dashboards for Finance, HR, and Healthcare domains.  
 
-> ⭐ [**Explore all my repositories →**](https://github.com/Pujakum09-da?tab=repositories)  
-
----
-
-## 💼 Experience  
-
-**Business Intelligence Analyst** – PatientPoint *(May 2024 – Present)*  
-- Developed **enterprise dashboards** with Power BI & Tableau.  
-- Automated ETL/ELT workflows with **Alteryx & ADF**, improving efficiency.  
-- Optimized **SQL/Snowflake** queries (40% faster performance).  
-- Implemented **data governance frameworks** ensuring 99% accuracy.  
-
-**BI Developer / Data Analyst** – PwC *(Aug 2020 – Dec 2023)*  
-- Built and deployed **Power BI & Tableau dashboards** for finance and compliance.  
-- Automated **ETL pipelines** across Snowflake, Azure SQL, Databricks.  
-- Created reusable **data cleansing workflows** in Alteryx.  
-- Reduced dashboard refresh times by **30%**.  
-
----
-
-## 🎓 Education  
-
-- 🎓 Master’s in **Information Technology Management** – Webster University *(2024 – 2025)*  
-- 🎓 Bachelor of Technology in **Computer Science** – Avinash Degree College *(2017 – 2020)*  
+> ⭐ [**Explore all my repositories →**][(https://github.com/Pujakum09-da?tab=repositories)](https://github.com/PriyaPonna?tab=repositories)  
 
 ---
 
 ## 🏆 Awards & Recognitions  
 
-- 🌟 Delivered BI automation saving **35+ hrs/week** in manual tasks.  
-- 🏅 Recognized for implementing **data governance frameworks** with 99% accuracy.  
-- 🎖️ Mentored teams on **BI best practices & data visualization**.  
+- 🎉 Promoted to BI Analyst at PatientPoint within 1 year  
+- 🤝 Recognized as liaison between Tech and Process Improvement teams  
+- 🏅 Star Performer at PwC for building scalable BI pipelines  
+- 📊 Designed and owned executive KPI dashboards  
+- 👩‍🏫 Led Power BI and Tableau training workshops  
+- 🌟 Mentored junior analysts in SQL, DAX, and dashboard design  
+- 🎖️ Tableau and Power BI Top Skills certifications  
 
 ---
 
