@@ -56,15 +56,15 @@
 📊 **Clinical & Operational BI Dashboards (PwC & PatientPoint)**  
 → Designed enterprise-level BI dashboards for Finance, HR, and Healthcare domains.  
 
-> ⭐ [**Explore all my repositories →**][(https://github.com/Pujakum09-da?tab=repositories)](https://github.com/PriyaPonna?tab=repositories)  
+> ⭐ [**Explore all my repositories →**][(https://github.com/PriyaPonna?tab=repositories)]
 
 ---
 
 ## 🏆 Awards & Recognitions  
 
-- 🎉 Promoted to BI Analyst at PatientPoint within 1 year  
 - 🤝 Recognized as liaison between Tech and Process Improvement teams  
-- 🏅 Star Performer at PwC for building scalable BI pipelines  
+- 🏅 Star Performer at PwC for building scalable BI pipelines
+- 🎉 Promoted to BI Analyst at PatientPoint within 1 year    
 - 📊 Designed and owned executive KPI dashboards  
 - 👩‍🏫 Led Power BI and Tableau training workshops  
 - 🌟 Mentored junior analysts in SQL, DAX, and dashboard design  
@@ -77,18 +77,6 @@
 - 🤖 Generative AI for BI & automation.  
 - ☁️ Advanced cloud integration (Azure & AWS for analytics).  
 - 📈 Data governance & compliance in large-scale BI systems.  
-
----
-
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pujakum09-da&theme=radical" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pujakum09-da&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
 
 ---
 
