@@ -17,7 +17,7 @@
 ## 🚀 About Me  
 
 🌟 Business Intelligence Analyst with strong expertise in **Power BI, Tableau, SQL, Python, and Snowflake**.  
-📊 Passionate about designing enterprise dashboards, data models, and ETL workflows for **healthcare and HR domains**.  
+📊 Passionate about designing enterprise dashboards, data models, and ETL workflows for **Healthcare, Financial and HR domains**.  
 ⚡ Skilled in **Data Governance, quality frameworks, and Agile** methodologies.  
 🌍 Based in Chicago, IL and open to creating impactful BI solutions that drive decision-making.  
 
